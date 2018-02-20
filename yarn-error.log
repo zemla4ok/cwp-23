@@ -1,0 +1,35 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add mendeleev-master
+
+PATH: 
+  C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Common Files\Acronis\SnapAPI\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Yarn\bin;C:\Users\dima-\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Microsoft VS Code\bin;C:\Users\dima-\AppData\Roaming\npm;C:\Program Files\MongoDB\Server\3.6\bin;;C:\Users\dima-\AppData\Local\Programs\Fiddler;C:\Users\dima-\AppData\Local\Yarn\bin
+
+Yarn version: 
+  1.3.2
+
+Node version: 
+  9.5.0
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  {
+      "dependencies": {
+          "mendeleev": "1.0.0",
+          "mendeleev-stringify": "1.0.0",
+          "mendeleev-master": "1.0.0"
+      }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: connect ETIMEDOUT 104.16.60.173:443
+      at Object._errnoException (util.js:1003:13)
+      at _exceptionWithHostPort (util.js:1024:20)
+      at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1195:14)
