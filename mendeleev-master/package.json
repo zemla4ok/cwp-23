@@ -1,0 +1,10 @@
+{
+  "name": "mendeleev-master",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "zemla4ok",
+  "license": "MIT",
+  "dependencies": {
+    "mendeleev-stringify": "1.0.0"
+  }
+}
